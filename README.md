@@ -17,13 +17,28 @@ Currently focused on building a professional portfolio demonstrating core SOC ca
 
 ### [Email Header & Link Analyzer](https://github.com/)  
 **Python | Completed**  
-CLI tool for analyzing email headers and detecting phishing links. Integrates WHOIS and VirusTotal queries, domain mismatch checks, and link analysis reporting.
+Parses email headers, extracts URLs, and performs automated phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
 
 ### Log File Analyzer *(In Progress)*  
 **Python**  
-Parses Apache logs to identify suspicious activity, including brute force attempts, scans, and injection patterns. Flags IOCs and summarizes activity trends.
+Parses Apache access logs to identify suspicious patterns including scanning, injection attempts, and brute-force behavior. Highlights anomalies and flags indicators of compromise.
 
-### [College Projects](https://github.com/LogLogic/CollegeProjects) 
+### Suspicious Process & Behavior Analyzer *(In Progress)*
+**Python**  
+Analyzes process trees and system behavior to detect suspicious parent-child relationships, unusual command-line arguments, and known malicious patterns.
+
+### SIEM Dashboard with Splunk *(In Progress)*  
+**Splunk**  
+Custom Splunk dashboard built with simulated log data to visualize alerts, identify anomalies, and support detection use cases. Focus on authentication, web activity, and system changes.
+
+### Log Parser (Multi-Source) *(In Progress)*  
+**Python**  
+Framework for ingesting logs from multiple sources (web, auth, system), normalizing formats, and identifying security-relevant events. Modular design for rule-based alerting.
+
+---
+
+### [College Projects](https://github.com/LogLogic/CollegeProjects)
+
 **PowerShell | Completed**  
 - **System Hardening Script:** Automates basic Windows configuration and security settings  
 - **Ping Scanner:** Scans odd-numbered IPs within a subnet for reachability  
