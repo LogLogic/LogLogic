@@ -23,7 +23,7 @@ CLI tool for analyzing email headers and detecting phishing links. Integrates WH
 **Python**  
 Parses Apache logs to identify suspicious activity, including brute force attempts, scans, and injection patterns. Flags IOCs and summarizes activity trends.
 
-### College Projects  
+### [College Projects] (https://github.com/LogLogic/CollegeProjects)  
 **PowerShell | Completed**  
 - **System Hardening Script:** Automates basic Windows configuration and security settings  
 - **Ping Scanner:** Scans odd-numbered IPs within a subnet for reachability  
