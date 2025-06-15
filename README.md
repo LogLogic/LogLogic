@@ -15,7 +15,7 @@ Currently focused on building a professional portfolio demonstrating core SOC ca
 
 ## Projects
 
-### [Email Header & Link Analyzer](https://github.com/)  
+### [Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer)  
 **Python | Completed**  
 Parses email headers, extracts URLs, and performs automated phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
 
