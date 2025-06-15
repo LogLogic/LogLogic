@@ -41,7 +41,7 @@ Framework for ingesting logs from multiple sources (web, auth, system), normaliz
 
 ### PowerShell Security Tools
 **PowerShell | Completed**  
-- **[System Hardening Script:[(https://github.com/LogLogic/CollegeProjects/blob/main/ConfigurationAutomationScript.ps1)** Automates basic Windows configuration and security settings  
+- **[System Hardening Script:](https://github.com/LogLogic/CollegeProjects/blob/main/ConfigurationAutomationScript.ps1)** Automates basic Windows configuration and security settings  
 - **[Ping Scanner:](https://github.com/LogLogic/CollegeProjects/blob/main/OddIPsPing.ps1)** Scans odd-numbered IPs within a subnet for reachability  
 - **[File Backup Organizer:](https://github.com/LogLogic/CollegeProjects/blob/main/FileBackup.ps1)** Organizes and backs up files into department-specific folders
 
