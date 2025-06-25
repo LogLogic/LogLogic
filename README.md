@@ -19,9 +19,9 @@ Currently focused on building a professional portfolio demonstrating core SOC ca
 **Python | Completed**  
 Parses email headers, extracts URLs, and performs automated phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
 
-### Log File Analyzer *(In Progress)*  
+### [Log File Analyzer](https://github.com/LogLogic/LogFileAnalyzer)  
 **Python**  
-Parses Apache access logs to identify suspicious patterns including scanning, injection attempts, and brute-force behavior. Highlights anomalies and flags indicators of compromise.
+Python tool that parses Apache access logs to detect suspicious activity such as brute-force login attempts, URL scanning, and access to sensitive paths. Helps identify anomalies and potential indicators of compromise for proactive incident response.
 
 ### Suspicious Process & Behavior Analyzer *(In Progress)*
 **Python**  
