@@ -23,7 +23,7 @@ Parses email headers, extracts URLs, and performs automated phishing investigati
 **Python**  
 Python tool that parses Apache access logs to detect suspicious activity such as brute-force login attempts, URL scanning, and access to sensitive paths. Helps identify anomalies and potential indicators of compromise for proactive incident response.
 
-### Suspicious Process & Behavior Analyzer *(In Progress)*
+### [Suspicious Process & Behavior Analyzer](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer)
 **Python**  
 Analyzes process trees and system behavior to detect suspicious parent-child relationships, unusual command-line arguments, and known malicious patterns.
 
