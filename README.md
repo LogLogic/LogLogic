@@ -13,8 +13,22 @@ Currently focused on building a professional portfolio demonstrating core SOC ca
 
 ---
 
-## Projects
+## 📚 Content Overview
 
+Explore my portfolio organized by SOC analyst core skill areas:
+
+1. [Email & Phishing Analysis](#email--phishing-analysis)  
+2. [Log Analysis & Threat Detection](#log-analysis--threat-detection)  
+3. [Network Traffic & Forensics](#network-traffic--forensics)  
+4. [Malware Analysis & Reverse Engineering](#malware-analysis--reverse-engineering)  
+5. [SIEM, Dashboards & Detection Engineering](#siem-dashboards--detection-engineering)  
+6. [Tools & Automation](#tools--automation)  
+7. [Learning & Labs](#learning--labs)  
+8. [College Projects](#college-projects)  
+
+---
+
+## Projects
 ### [🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer)  
 **Python**  
 Parses email headers, extracts URLs, and performs automated phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
