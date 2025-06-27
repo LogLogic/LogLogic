@@ -40,74 +40,47 @@ Parsing system, authentication, and web logs to identify suspicious activity.
 
 - [📈 Log File Analyzer](https://github.com/LogLogic/LogFileAnalyzer) — Detects brute-force attempts, URL scanning, and access to sensitive paths in Apache logs.  
 - [🧠 Suspicious Process & Behavior Analyzer](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer) — Analyzes process trees and system behavior for suspicious parent-child relationships and known malicious patterns.  
-- SIEM Dashboard with Splunk *(In Progress)* — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.  
+- 📊 SIEM Dashboard with Splunk *(In Progress)* — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.  
 - 🧩 Log Parser (Multi-Source) *(In Progress)* — Framework for ingesting logs from multiple sources with modular rule-based alerting.
 
 ### Network Traffic & Forensics  
 Network packet capture and analysis for incident investigation.
 
-*(In progress / upcoming projects)*
+*(In progress)*
 
 ### Malware Analysis & Reverse Engineering  
 Basic static and dynamic behavioral analysis of malware.
 
-*(In progress / upcoming projects)*
+*(In progress)*
 
 ### SIEM, Dashboards & Detection Engineering  
 Splunk dashboards and alert workflow automation.
 
-*(See above for ongoing dashboard projects)*
+- 📊 SIEM Dashboard with Splunk *(In Progress)* — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.
 
 ### Tools & Automation  
 Scripts in Python and PowerShell to automate SOC analyst tasks.
 
-- PowerShell System Hardening Script  
-- Ping Scanner  
-- File Backup Organizer
-
-### Learning & Labs  
-Notes and guides documenting continuous learning.
-
-*(Links to notes or labs if applicable)*
-
-### College Projects  
-Additional scripts and projects developed during my studies.
-
-- [🐭 MousePicnic – Text Adventure Game](https://github.com/LogLogic/CollegeProjects/tree/main/PythonTextGame) — A structured CLI project demonstrating Python proficiency and basic game logic.
-
-
-### [🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer)  
-**Python**  
-Parses email headers, extracts URLs, and performs automated phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
-
-### [📈 Log File Analyzer](https://github.com/LogLogic/LogFileAnalyzer)  
-**Python**  
-Python tool that parses Apache access logs to detect suspicious activity such as brute-force login attempts, URL scanning, and access to sensitive paths. Helps identify anomalies and potential indicators of compromise for proactive incident response.
-
-### [🧠 Suspicious Process & Behavior Analyzer](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer)
-**Python**  
-Analyzes process trees and system behavior to detect suspicious parent-child relationships, unusual command-line arguments, and known malicious patterns.
-
-### 📊 SIEM Dashboard with Splunk *(In Progress)*  
-**Splunk**  
-Custom Splunk dashboard built with simulated log data to visualize alerts, identify anomalies, and support detection use cases. Focus on authentication, web activity, and system changes.
-
-### 🧩 Log Parser (Multi-Source) *(In Progress)*  
-**Python**  
-Framework for ingesting logs from multiple sources (web, auth, system), normalizing formats, and identifying security-relevant events. Modular design for rule-based alerting.
-
----
-
-## [🧪 College Projects](https://github.com/LogLogic/CollegeProjects)
-
-**🔐 PowerShell Automation Scripts**  
+- **[🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer)** — Python tool parsing headers, extracting URLs, and automating phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
+- **[📈 Log File Analyzer](https://github.com/LogLogic/LogFileAnalyzer)** — Detects brute-force attempts, URL scanning, and access to sensitive paths in Apache logs.  
+- **[🧠 Suspicious Process & Behavior Analyzer](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer)** — Analyzes process trees and system behavior for suspicious parent-child relationships and known malicious patterns.  
 - **[System Hardening Script:](https://github.com/LogLogic/CollegeProjects/blob/main/ConfigurationAutomationScript.ps1)** Automates basic Windows configuration and security settings  
 - **[Ping Scanner:](https://github.com/LogLogic/CollegeProjects/blob/main/OddIPsPing.ps1)** Scans odd-numbered IPs within a subnet for reachability  
 - **[File Backup Organizer:](https://github.com/LogLogic/CollegeProjects/blob/main/FileBackup.ps1)** Organizes and backs up files into department-specific folders
 
-### [🐭 MousePicnic – Text Adventure Game](https://github.com/LogLogic/CollegeProjects/tree/main/PythonTextGame)  
-**Python | Completed**  
-A structured CLI project for demonstrating Python proficiency and basic game logic.
+### Learning & Labs  
+Notes and guides documenting continuous learning.
+
+*(Links to notes and labs)*
+
+### College Projects  
+Additional scripts and projects developed during my studies.
+
+- **[System Hardening Script:](https://github.com/LogLogic/CollegeProjects/blob/main/ConfigurationAutomationScript.ps1)** Automates basic Windows configuration and security settings  
+- **[Ping Scanner:](https://github.com/LogLogic/CollegeProjects/blob/main/OddIPsPing.ps1)** Scans odd-numbered IPs within a subnet for reachability  
+- **[File Backup Organizer:](https://github.com/LogLogic/CollegeProjects/blob/main/FileBackup.ps1)** Organizes and backs up files into department-specific folders
+
+- **[🐭 MousePicnic – Text Adventure Game](https://github.com/LogLogic/CollegeProjects/tree/main/PythonTextGame)** — A structured CLI project demonstrating Python proficiency and basic game logic.
 
 ---
 
