@@ -45,7 +45,7 @@ Framework for ingesting logs from multiple sources (web, auth, system), normaliz
 - **[Ping Scanner:](https://github.com/LogLogic/CollegeProjects/blob/main/OddIPsPing.ps1)** Scans odd-numbered IPs within a subnet for reachability  
 - **[File Backup Organizer:](https://github.com/LogLogic/CollegeProjects/blob/main/FileBackup.ps1)** Organizes and backs up files into department-specific folders
 
-### [MousePicnic – Text Adventure Game](https://github.com/LogLogic/CollegeProjects/tree/main/PythonTextGame)  
+### [🐭 MousePicnic – Text Adventure Game](https://github.com/LogLogic/CollegeProjects/tree/main/PythonTextGame)  
 **Python | Completed**  
 A structured CLI project for demonstrating Python proficiency and basic game logic.
 
