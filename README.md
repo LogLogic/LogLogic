@@ -29,6 +29,53 @@ Explore my portfolio organized by SOC analyst core skill areas:
 ---
 
 ## Projects
+
+### Email & Phishing Analysis  
+Investigations focused on phishing, email header analysis, link and attachment triage, and social engineering detection.
+
+- [🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer) — Python tool parsing headers, extracting URLs, and automating phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
+
+### Log Analysis & Threat Detection  
+Parsing system, authentication, and web logs to identify suspicious activity.
+
+- [📈 Log File Analyzer](https://github.com/LogLogic/LogFileAnalyzer) — Detects brute-force attempts, URL scanning, and access to sensitive paths in Apache logs.  
+- [🧠 Suspicious Process & Behavior Analyzer](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer) — Analyzes process trees and system behavior for suspicious parent-child relationships and known malicious patterns.  
+- SIEM Dashboard with Splunk *(In Progress)* — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.  
+- 🧩 Log Parser (Multi-Source) *(In Progress)* — Framework for ingesting logs from multiple sources with modular rule-based alerting.
+
+### Network Traffic & Forensics  
+Network packet capture and analysis for incident investigation.
+
+*(In progress / upcoming projects)*
+
+### Malware Analysis & Reverse Engineering  
+Basic static and dynamic behavioral analysis of malware.
+
+*(In progress / upcoming projects)*
+
+### SIEM, Dashboards & Detection Engineering  
+Splunk dashboards and alert workflow automation.
+
+*(See above for ongoing dashboard projects)*
+
+### Tools & Automation  
+Scripts in Python and PowerShell to automate SOC analyst tasks.
+
+- PowerShell System Hardening Script  
+- Ping Scanner  
+- File Backup Organizer
+
+### Learning & Labs  
+Notes and guides documenting continuous learning.
+
+*(Links to notes or labs if applicable)*
+
+### College Projects  
+Additional scripts and projects developed during my studies.
+
+- [🐭 MousePicnic – Text Adventure Game](https://github.com/LogLogic/CollegeProjects/tree/main/PythonTextGame) — A structured CLI project demonstrating Python proficiency and basic game logic.
+
+
 ### [🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer)  
 **Python**  
 Parses email headers, extracts URLs, and performs automated phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
