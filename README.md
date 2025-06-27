@@ -33,6 +33,7 @@ Explore my portfolio organized by SOC analyst core skill areas:
 ### Email & Phishing Analysis  
 Investigations focused on phishing, email header analysis, link and attachment triage, and social engineering detection.
 
+- [📧 Phishing Email – German PayPal Spoof](https://github.com/LogLogic/EmailPhishingAnalysis/tree/main/PhishingEmailGermanPaypal) — Step-by-step phishing investigation involving spoofed sender, obfuscated malicious link, and VirusTotal analysis. Includes screenshots and full analyst report.
 - [🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer) — Python tool parsing headers, extracting URLs, and automating phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
 
 ### Log Analysis & Threat Detection  
