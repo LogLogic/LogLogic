@@ -35,7 +35,6 @@ Investigations focused on phishing, email header analysis, link and attachment t
 
 - [📧 Phishing Email – German PayPal Spoof](https://github.com/LogLogic/EmailPhishingAnalysis/tree/main/PhishingEmailGermanPaypal) — Step-by-step phishing investigation involving spoofed sender, obfuscated malicious link, and VirusTotal analysis. Includes screenshots and full analyst report.
 - [📧 Phishing Email – United Scientific Equipment Impersonation](https://github.com/LogLogic/EmailPhishingAnalysis/tree/main/EmailPhishingAnalysisUnitedScientific) — Business-themed phishing case with ZIP attachment containing a malware-laced `.exe`. Investigation includes email header review, IP geolocation, hash analysis using Command Prompt, and VirusTotal confirmation.  
-- [🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer) — Python tool parsing headers, extracting URLs, and automating phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports.
 
 ### Log Analysis & Threat Detection  
 Parsing system, authentication, and web logs to identify suspicious activity.
