@@ -57,6 +57,8 @@ Basic static and dynamic behavioral analysis of malware.
 Splunk dashboards and alert workflow automation for security monitoring and detection.
 
 - [📊 Brute Force Login Detection in Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/BruteForceDetectionSplunk) — Custom-built dashboards and scheduled alerts for detecting anomalies and security threats. Demonstrates real-world use cases including log ingestion, SPL queries, visualization, and alerting for brute force login attempts.
+- [🎣 Phishing Email Detection in Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/PhishingEmailAnalysisSplunk) — Scheduled alert and bar chart dashboards for detecting spoofed phishing emails that fail SPF, DKIM, and DMARC authentication. Demonstrates real-world use cases including email log ingestion, field extraction, alert configuration, IOC enrichment, and triage-ready reporting for phishing attempts.
+
 
 ### Tools & Automation  
 Scripts in Python and PowerShell to automate SOC analyst tasks.
