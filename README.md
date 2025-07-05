@@ -41,7 +41,7 @@ Parsing system, authentication, and web logs to identify suspicious activity.
 
 - [📈 Log File Analyzer](https://github.com/LogLogic/LogFileAnalyzer) — Detects brute-force attempts, URL scanning, and access to sensitive paths in Apache logs.  
 - [🧠 Suspicious Process & Behavior Analyzer](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer) — Analyzes process trees and system behavior for suspicious parent-child relationships and known malicious patterns.  
-- 📊 SIEM Dashboard with Splunk *(In Progress)* — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.  
+- [📊 SIEM Dashboard with Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/BruteForceDetectionSplunk) — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.  
 - 🧩 Log Parser (Multi-Source) *(In Progress)* — Framework for ingesting logs from multiple sources with modular rule-based alerting.
 
 ### Network Traffic & Forensics  
@@ -57,7 +57,7 @@ Basic static and dynamic behavioral analysis of malware.
 ### SIEM, Dashboards & Detection Engineering  
 Splunk dashboards and alert workflow automation.
 
-- 📊 SIEM Dashboard with Splunk *(In Progress)* — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.
+- [📊 SIEM Dashboard with Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/BruteForceDetectionSplunk) — Custom dashboards visualizing alerts, anomalies, and supporting detection use cases.
 
 ### Tools & Automation  
 Scripts in Python and PowerShell to automate SOC analyst tasks.
