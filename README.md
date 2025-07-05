@@ -54,9 +54,9 @@ Basic static and dynamic behavioral analysis of malware.
 *(In progress)*
 
 ### SIEM, Dashboards & Detection Engineering  
-Splunk dashboards and alert workflow automation.
+Splunk dashboards and alert workflow automation for security monitoring and detection.
 
-- [📊 Brute Force Login Detection in Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/BruteForceDetectionSplunk) — Custom-built dashboards and scheduled alerts for detecting anomalies and security threats. Includes real-world use cases like brute force login detection, complete with log ingestion, SPL queries, visualization, and alerting.
+- [📊 Brute Force Login Detection in Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/BruteForceDetectionSplunk) — Custom-built dashboards and scheduled alerts for detecting anomalies and security threats. Demonstrates real-world use cases including log ingestion, SPL queries, visualization, and alerting for brute force login attempts.
 
 ### Tools & Automation  
 Scripts in Python and PowerShell to automate SOC analyst tasks.
