@@ -64,8 +64,7 @@ Scripts in Python and PowerShell to automate SOC analyst tasks.
 - **[🔍 Email Header & Link Analyzer](https://github.com/LogLogic/EmailHeaderLinkAnalyzer)** — Python tool parsing headers, extracting URLs, and automating phishing investigations. Integrates VirusTotal, WHOIS, and domain mismatch checks. Generates investigation-ready reports
 - **[📈 Log File Analyzer](https://github.com/LogLogic/LogFileAnalyzer)** — Detects brute-force attempts, URL scanning, and access to sensitive paths in Apache logs.  
 - **[🧠 Suspicious Process & Behavior Analyzer](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer)** — Analyzes process trees and system behavior for suspicious parent-child relationships and known malicious patterns.
-- **[ PowerShell Phishing Triage Toolkit](https://github.com/LogLogic/ToolsAutomation/blob/main/PowerShellPhishingTriageToolkit)** —  
-
+- **[🛡️ PowerShell Phishing Triage Toolkit](https://github.com/LogLogic/ToolsAutomation/blob/main/PowerShellPhishingTriageToolkit)** —  A PowerShell script to automate extraction of IOCs from email headers, including IPs, domains, and URLs, with integrated VirusTotal reputation lookups. 
 
 ### Learning & Labs  
 Notes and guides documenting continuous learning.
