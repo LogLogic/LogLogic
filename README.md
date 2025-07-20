@@ -45,6 +45,7 @@ Parsing system, authentication, and web logs to identify suspicious activity.
 Network packet capture and analysis for incident investigation, malware detection, and threat hunting.
 
 - [🕵️‍♀️ Fake antivirus redirect campaign analysis (Wireshark)](https://github.com/LogLogic/NetworkTrafficForensics/tree/main/FakeAntivirusRedirectCampaign) — Case study explorin a multi-stage browser-based attack involving JavaScript injection, chained redirects across attacker-controlled domains, and a final tech support scam landing page. Demonstrates TCP stream analysis, HTTP inspection, IOC extraction, and real-world threat hunting techniques.
+- [🕵️‍♂️ Malware EXE download analysis (Wireshark)](https://github.com/LogLogic/NetworkTrafficForensics/tree/main/MalwareEXEDownload) — Investigation of a Windows host downloading a malicious executable via HTTP. Includes HTTP GET and response inspection, malware file extraction and SHA256 hash verification. Provides a full step-by-step guide and SOC-style investigation report.
 
 ### Malware Analysis & Reverse Engineering  
 Basic static and dynamic behavioral analysis of malware.
