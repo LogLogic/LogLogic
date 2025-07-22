@@ -57,6 +57,8 @@ Splunk dashboards and alert workflow automation for security monitoring and dete
 
 - [📊 Brute Force Login Detection in Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/BruteForceDetectionSplunk) — Custom-built dashboards and scheduled alerts for detecting anomalies and security threats. Demonstrates real-world use cases including log ingestion, SPL queries, visualization, and alerting for brute force login attempts.
 - [🎣 Phishing Email Detection in Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/PhishingEmailAnalysisSplunk) — Scheduled alert and bar chart dashboards for detecting spoofed phishing emails that fail SPF, DKIM, and DMARC authentication. Demonstrates real-world use cases including email log ingestion, field extraction, alert configuration, IOC enrichment, and triage-ready reporting for phishing attempts.
+- [🌍 Unusual Login Geolocation Analysis in Splunk](https://github.com/LogLogic/SIEMDashboardsDetectionEngineering/tree/main/DetectingUnusualUserLoginsSplunk) —
+Proactive threat hunting dashboard for detecting suspicious login behavior using geolocation anomalies. Focuses on impossible travel, new IP addresses, and logins at unusual hours. Demonstrates manual log ingestion, SPL queries for anomaly detection, map-based visualizations, and triage-ready reporting to support investigative workflows.
 
 
 ### Tools & Automation  
