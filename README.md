@@ -23,7 +23,7 @@ Explore my portfolio organized by SOC analyst core skill areas:
 4. [Malware Analysis & Reverse Engineering](#malware-analysis--reverse-engineering)  
 5. [SIEM, Dashboards & Detection Engineering](#siem-dashboards--detection-engineering)  
 6. [Tools & Automation](#tools--automation)  
-7. [Learning & Labs](#learning--labs)  
+7. [Playbooks & Labs](#playbooks--labs)  
 8. [College Projects](#college-projects)  
 
 ---
