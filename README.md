@@ -69,7 +69,7 @@ Scripts in Python and PowerShell to automate SOC analyst tasks.
 - **[🧠 Suspicious Process & Behavior Analyzer (Python)](https://github.com/LogLogic/SuspiciousProcessBehaviorAnalyzer)** — Analyzes system process trees and behavior for suspicious parent-child relationships and known malicious patterns.
 - **[🛡️ PowerShell Phishing Triage Toolkit](https://github.com/LogLogic/ToolsAutomation/blob/main/PowerShellPhishingTriageToolkit)** —  Automates extraction of IOCs from email headers, including IPs, domains, and URLs, with integrated VirusTotal reputation lookups.
 
-### Learning & Labs  
+### Playbooks & Labs  
 Notes and guides documenting continuous learning.
 
 *(Links to notes and labs)*
