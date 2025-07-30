@@ -70,9 +70,11 @@ Scripts in Python and PowerShell to automate SOC analyst tasks.
 - **[🛡️ PowerShell Phishing Triage Toolkit](https://github.com/LogLogic/ToolsAutomation/blob/main/PowerShellPhishingTriageToolkit)** —  Automates extraction of IOCs from email headers, including IPs, domains, and URLs, with integrated VirusTotal reputation lookups.
 
 ### Playbooks & Labs  
-Notes and guides documenting continuous learning.
+Investigation guides and lab environments to simulate real-world SOC workflows and deepen hands-on cybersecurity skills.
 
-*(Links to notes and labs)*
+- **📘 [Phishing Email Investigation Playbook](https://github.com/LogLogic/PlaybooksLabs/tree/main/Phishing_Playbook)** — A detailed, step-by-step guide for investigating phishing emails. Covers email header analysis, malicious link detection, attachment triage, IOC enrichment, and response actions. Includes annotated screenshots and tool references.
+
+- **🧰 Lean SOC Lab Setup** *(In Progress)* — Lightweight, practical SOC lab environment for simulating attacks, generating logs, and testing detections. Documents full setup using minimal resources to support repeatable threat investigations and playbook development.
 
 ### College Projects  
 Additional scripts and projects developed during my studies.
